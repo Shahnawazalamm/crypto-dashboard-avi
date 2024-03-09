@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/track-crypto/static/css/main.ff9526ec.css",
+    "main.js": "/track-crypto/static/js/main.b8f2c499.js",
+    "static/media/iphone.png": "/track-crypto/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/track-crypto/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/track-crypto/index.html",
+    "main.ff9526ec.css.map": "/track-crypto/static/css/main.ff9526ec.css.map",
+    "main.b8f2c499.js.map": "/track-crypto/static/js/main.b8f2c499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9526ec.css",
+    "static/js/main.b8f2c499.js"
+  ]
+}
